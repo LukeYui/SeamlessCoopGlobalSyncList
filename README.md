@@ -2,6 +2,10 @@ List of SteamIDs who have been banned from *ALL* seamless co-op mods for cringe 
 
 Seamless co-op will download this list on launch and restrict play for these users.
 
+# Validity
+
+All of the accounts on this list are permanently banned from the seamless co-op mods. All reports are verified by myself personally with video evidence of the account in question very clearly cheating. 
+
 # Terms
 
 - `shitter` - An unskilled player who uses a public cheat table made by someone else to cheat against other players at will
