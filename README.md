@@ -2,8 +2,8 @@
 
 List of SteamIDs who have been banned from *ALL* seamless co-op mods for cringe worthy cheats. Seamless co-op will download this list on launch and restrict play for these users.
 
-`GLOBALBLOCKSYNC` - This file contains a list of player who are banned from using the mod altogether. These are either cheaters banned before version 1.9.6, or people who actively dirupt online play (e.g. crash bot)
-`GLOBALRESTRICTSYNC` - Contains a list of players who are restricted from random matchmaking and invasions. These are players who are usually just playing PvE with their friends (with cheats) and happen to get invaded and cheat against the invader
+- `GLOBALBLOCKSYNC` - This file contains a list of player who are banned from using the mod altogether. These are either cheaters banned before version 1.9.6, or people who actively dirupt online play (e.g. crash bot)
+- `GLOBALRESTRICTSYNC` - Contains a list of players who are restricted from random matchmaking and invasions. These are players who are usually just playing PvE with their friends (with cheats) and happen to get invaded and cheat against the invader
 
 # Validity
 
