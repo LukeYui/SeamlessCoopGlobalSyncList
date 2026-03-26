@@ -15,3 +15,7 @@ All of the accounts on this list are permanently banned from the seamless co-op 
 - `typical solo-host survival` - A player who thinks they're good, puts on the dried fingers to get 3 invaders in their world as a solo host, but then toggles cheats when they're losing
 - `help button` - A shitter who, when confronted with losing to an another player legitimately, decides to press a hotkey that activates all of their cheats at once
 - `speedhacks` - A shitter who sets their player's speed to an absurdly high number so they can kill others
+
+# Notes
+
+Please note that this is not to "name and shame" cheaters. It is a list kept to isolate cheaters from the general player population to keep users safe
